@@ -1,0 +1,354 @@
+{
+  "profile": {
+    "id": 2533274811258162,
+    "hostId": 2533274811258162,
+    "Gamertag": "Sheolh",
+    "GameDisplayName": "Sheolh",
+    "AppDisplayName": "Sheolh",
+    "Gamerscore": 57655,
+    "GameDisplayPicRaw": "http://images-eds.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW3apWESZjav65Yncai8aRmVbSlZ3zqRpg1sdxEje_JmFNdjkM0Wree8m0D8skBKW2QoMr2SEK4w19l_9GBiWBb88eiykKRq8ZecaBmMP5va0JP7_d6jV9.pGz7Nk6ru_qrWd071rn5J.6Y1dPabB6X8-&format=png",
+    "AppDisplayPicRaw": "http://images-eds.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW3apWESZjav65Yncai8aRmVbSlZ3zqRpg1sdxEje_JmFNdjkM0Wree8m0D8skBKW2QoMr2SEK4w19l_9GBiWBb88eiykKRq8ZecaBmMP5va0JP7_d6jV9.pGz7Nk6ru_qrWd071rn5J.6Y1dPabB6X8-&format=png",
+    "AccountTier": "Gold",
+    "XboxOneRep": "GoodPlayer",
+    "PreferredColor": "http://dlassets.xboxlive.com/public/content/ppl/colors/00019.json",
+    "TenureLevel": 8,
+    "isSponsoredUser": false
+  },
+  "presence": {
+    "xuid": "2533274811258162",
+    "state": "Online",
+    "devices": [
+      {
+        "type": "XboxOne",
+        "titles": [
+          {
+            "id": "750323071",
+            "name": "Home",
+            "placement": "Background",
+            "state": "Active",
+            "lastModified": "2018-04-08T01:52:54.4104166Z"
+          },
+          {
+            "id": "447911394",
+            "activity": {
+              "richPresence": "Main Menu"
+            },
+            "name": "Far Cry® 5",
+            "placement": "Full",
+            "state": "Inactive",
+            "lastModified": "2018-04-08T01:56:21.867385Z"
+          }
+        ]
+      }
+    ],
+    "activity": "Far Cry® 5",
+    "activityDetail": "Main Menu"
+  },
+  "gameclips": {
+    "status": "success",
+    "numResults": 6,
+    "gameClips": [
+      {
+        "gameClipId": "89964f75-0ad2-4d7d-b3ea-ef3e04fa6bf2",
+        "state": "Published",
+        "datePublished": "2018-04-07T17:07:26.6545801Z",
+        "dateRecorded": "2018-04-07T17:04:40Z",
+        "lastModified": "2018-04-07T17:07:26.6545801Z",
+        "userCaption": "",
+        "type": "UserGenerated",
+        "durationInSeconds": 43,
+        "scid": "d1adc8aa-0a31-4407-90f2-7e9b54b0347c",
+        "titleId": 447911394,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 0,
+        "titleData": "",
+        "systemProperties": "b11821e7-acc4-480a-8c1c-d630b8e2dc250;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t2009.xboxlive.com/xuid-2533274811258162-public/89964f75-0ad2-4d7d-b3ea-ef3e04fa6bf2_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t2009.xboxlive.com/xuid-2533274811258162-public/89964f75-0ad2-4d7d-b3ea-ef3e04fa6bf2_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d2009.xboxlive.com/xuid-2533274811258162-private/89964f75-0ad2-4d7d-b3ea-ef3e04fa6bf2.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=c5TcNV%2FAf3te5p8yjgMVDpgfnkyw7XvdXLqu1cIcHAU%3D&__gda__=1523156843_a4bafc9749b349bc325ad1b5d6c9f87f",
+            "fileSize": 41616253,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Far Cry® 5",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      },
+      {
+        "gameClipId": "60adad4e-0dd7-4ce6-91b0-8a2a9f1b14b9",
+        "state": "Published",
+        "datePublished": "2018-04-07T16:44:12.6714646Z",
+        "dateRecorded": "2018-04-07T16:39:54Z",
+        "lastModified": "2018-04-07T16:44:12.6714646Z",
+        "userCaption": "",
+        "type": "UserGenerated",
+        "durationInSeconds": 43,
+        "scid": "d1adc8aa-0a31-4407-90f2-7e9b54b0347c",
+        "titleId": 447911394,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 0,
+        "titleData": "",
+        "systemProperties": "c1f4976d-988a-485b-b5c6-96465f1d8e6d0;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t3020.xboxlive.com/xuid-2533274811258162-public/60adad4e-0dd7-4ce6-91b0-8a2a9f1b14b9_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t3020.xboxlive.com/xuid-2533274811258162-public/60adad4e-0dd7-4ce6-91b0-8a2a9f1b14b9_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d3020.xboxlive.com/xuid-2533274811258162-private/60adad4e-0dd7-4ce6-91b0-8a2a9f1b14b9.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=KJ9obhtcHKBZsFnStkhzjkY%2B5mJBbJe%2BlBqdRj1HeU0%3D&__gda__=1523156843_ecb5d361c3988dd39bd92316b59aa199",
+            "fileSize": 39558078,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Far Cry® 5",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      },
+      {
+        "gameClipId": "e5d0b02d-43f9-4a78-83d3-a75066a6b306",
+        "state": "Published",
+        "datePublished": "2018-04-07T16:42:25.1542276Z",
+        "dateRecorded": "2018-04-07T16:39:38Z",
+        "lastModified": "2018-04-07T16:42:25.1542276Z",
+        "userCaption": "",
+        "type": "UserGenerated",
+        "durationInSeconds": 42,
+        "scid": "d1adc8aa-0a31-4407-90f2-7e9b54b0347c",
+        "titleId": 447911394,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 0,
+        "titleData": "",
+        "systemProperties": "ceb3e2ea-020a-47a0-a718-f0e44ca568680;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t3023.xboxlive.com/xuid-2533274811258162-public/e5d0b02d-43f9-4a78-83d3-a75066a6b306_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t3023.xboxlive.com/xuid-2533274811258162-public/e5d0b02d-43f9-4a78-83d3-a75066a6b306_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d3023.xboxlive.com/xuid-2533274811258162-private/e5d0b02d-43f9-4a78-83d3-a75066a6b306.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=d5QoV9QIOwfho0EF1%2BGUVwsN4TpVH%2BVQ%2FpK%2FBxCfs%2Fs%3D&__gda__=1523156843_1702f871aff0cd62de5233c411f05d76",
+            "fileSize": 39457892,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Far Cry® 5",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      },
+      {
+        "gameClipId": "84097b0a-4bb1-49c0-a59d-36cc17234915",
+        "state": "Published",
+        "datePublished": "2018-01-13T05:33:41.4029522Z",
+        "dateRecorded": "2018-01-13T05:33:35Z",
+        "lastModified": "2018-01-13T05:33:41.4029522Z",
+        "userCaption": "Halt!",
+        "type": "UserGenerated",
+        "durationInSeconds": 9,
+        "scid": "03a80100-9ff3-46ea-be76-e00e7fe465df",
+        "titleId": 94618376,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 3,
+        "titleData": "",
+        "systemProperties": "ad350fe5-67ed-4717-9fd3-3f74e4a995b5;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t2005.xboxlive.com/xuid-2533274811258162-public/84097b0a-4bb1-49c0-a59d-36cc17234915_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t2005.xboxlive.com/xuid-2533274811258162-public/84097b0a-4bb1-49c0-a59d-36cc17234915_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d2005.xboxlive.com/xuid-2533274811258162-private/84097b0a-4bb1-49c0-a59d-36cc17234915.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=CLvNSxyplIthW%2Fyw6bLoIQP1PwPMSjQJ9RtJWwWGt3E%3D&__gda__=1523156843_d2986bb802c138b69b66633489a941a6",
+            "fileSize": 5061828,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Overwatch: Origins Edition",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      },
+      {
+        "gameClipId": "452011f5-5267-4e8f-bc95-e88752b635e8",
+        "state": "Published",
+        "datePublished": "2018-01-08T02:04:48.7069672Z",
+        "dateRecorded": "2018-01-08T02:04:45Z",
+        "lastModified": "2018-01-08T02:04:48.7069672Z",
+        "userCaption": "Shield Save",
+        "type": "UserGenerated",
+        "durationInSeconds": 9,
+        "scid": "03a80100-9ff3-46ea-be76-e00e7fe465df",
+        "titleId": 94618376,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 0,
+        "titleData": "",
+        "systemProperties": "2432c5ef-6334-4a8b-ba9e-1505628b01b1;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t3015.xboxlive.com/xuid-2533274811258162-public/452011f5-5267-4e8f-bc95-e88752b635e8_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t3015.xboxlive.com/xuid-2533274811258162-public/452011f5-5267-4e8f-bc95-e88752b635e8_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d3015.xboxlive.com/xuid-2533274811258162-private/452011f5-5267-4e8f-bc95-e88752b635e8.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=P3h8uGmq0YdDfbnmdz1GXnU3WKNfhe38pZrbdf%2FSzjg%3D&__gda__=1523156843_ef309e0359727547cd84d43de2e40579",
+            "fileSize": 4729168,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Overwatch: Origins Edition",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      },
+      {
+        "gameClipId": "47c1e0b3-be95-443a-8da2-9d94256a52f7",
+        "state": "Published",
+        "datePublished": "2017-10-28T02:58:12.7237978Z",
+        "dateRecorded": "2017-10-28T02:53:21Z",
+        "lastModified": "2017-10-28T02:58:12.7237978Z",
+        "userCaption": "",
+        "type": "UserGenerated",
+        "durationInSeconds": 44,
+        "scid": "d1adc8aa-0a31-4407-90f2-7e9b54b0347c",
+        "titleId": 809464104,
+        "rating": 0,
+        "ratingCount": 0,
+        "views": 0,
+        "titleData": "",
+        "systemProperties": "8af3f071-874e-41fa-96d7-df072d3dca250;",
+        "savedByUser": true,
+        "achievementId": "",
+        "greatestMomentId": "",
+        "thumbnails": [
+          {
+            "uri": "https://gameclipscontent-t2012.xboxlive.com/xuid-2533274811258162-public/47c1e0b3-be95-443a-8da2-9d94256a52f7_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Small"
+          },
+          {
+            "uri": "https://gameclipscontent-t2012.xboxlive.com/xuid-2533274811258162-public/47c1e0b3-be95-443a-8da2-9d94256a52f7_Thumbnail.PNG",
+            "fileSize": 0,
+            "thumbnailType": "Large"
+          }
+        ],
+        "gameClipUris": [
+          {
+            "uri": "https://gameclipscontent-d2012.xboxlive.com/xuid-2533274811258162-private/47c1e0b3-be95-443a-8da2-9d94256a52f7.MP4?sv=2015-12-11&sr=b&si=DefaultAccess&sig=5Da3oT9%2B4D5YjyB96GEZ53KGXInjeb4lv6o6BtEJpXw%3D&__gda__=1523156843_e2cfc818e76bcc9167bac83f2833d472",
+            "fileSize": 28575779,
+            "uriType": "Download",
+            "expiration": "2018-04-08T03:07:23.83355Z"
+          }
+        ],
+        "xuid": "2533274811258162",
+        "clipName": "",
+        "titleName": "Elex",
+        "gameClipLocale": "en-US",
+        "clipContentAttributes": "None",
+        "deviceType": "Durango",
+        "commentCount": 0,
+        "likeCount": 0,
+        "shareCount": 0,
+        "partialViews": 0
+      }
+    ],
+    "continuationToken": "abcde_vwxyzBgAAAA2"
+  }
+}
